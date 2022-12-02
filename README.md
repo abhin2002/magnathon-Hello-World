@@ -25,7 +25,12 @@ Explaining the working of project
 Embed video of project demo
 
 ## Technologies used
-List out tech stacks you have used
+Neural network:
+       PyTorch
+       PyTorch Lightning
+Tech Stacks:
+       tkinter
+       pandas
 
 ## How to configure
 Instructions for setting up project
