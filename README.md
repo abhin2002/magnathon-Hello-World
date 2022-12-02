@@ -30,7 +30,7 @@ Embed video of project demo
 
 ## Technologies used
 Neural network:
-      *PyTorch*
+      (*)PyTorch(*)
       *PyTorch Lightning*
 Tech Stacks:
        tkinter
