@@ -4,9 +4,7 @@
 # Empty Bin - MAGNATHON
  We aim to predict the amount of food and predict their qualities in domains like 
 community kitchen, restaurant, school/collage mess and all of the food industry by utilizing 
-supervised machine learning.
-
-If we could accurately predict the amount of raw materials and thereby the amount of food through
+supervised machine learning.If we could accurately predict the amount of raw materials and thereby the amount of food through
 everyday analysis we can minimise the quantity of food waste drastically and thereby 
 provide for the needy.
 
