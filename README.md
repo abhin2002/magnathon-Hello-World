@@ -7,13 +7,10 @@ community kitchen, restaurant, school/collage mess and all of the food industry 
 supervised machine learning.If we could accurately predict the amount of raw materials and thereby the amount of food through
 everyday analysis we can minimise the quantity of food waste drastically and thereby 
 provide for the needy.
-
-   A solution to eradicate unemployment
-   
-   A technology to reduce the scarcity of food
-   
-   A system to distrubute nutritional food
-   
+Supervised Machine Learning has lately proved to be one of the most prominent and
+efficiently improving methods comprising of several solid techniques and algorithms for
+the classification, manipulation, and reorganization of databases using the concepts
+recursive learning.
 
 ## Team Members
 [1.C B Dev Narayan](https://github.com/DeVcB13d)   
@@ -25,7 +22,14 @@ provide for the needy.
 [Empty Bin-Food Quantity Prediction](https://github.com/abhin2002/Food_Quantity_Prediction)
 
 ## How it Works ?
-Explaining the working of project  
+**Quantity of food produced:**<br />
+we intent to build a supervised machine learning model, trained using a general
+Dataset regarding the demand for food and can predict the quantity of food
+required for a given set of variables<br />
+The trained model can later be fine tuned using the data of a specific location so
+that the produce more locally accurate results<br />
+The algorithm used for learning is based on naive bayes and logistic regression
+classifiers
 Embed video of project demo
 
 ## Technologies used
