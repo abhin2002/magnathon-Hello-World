@@ -1,4 +1,4 @@
-![image](./assets/banner.png)
+![1](https://user-images.githubusercontent.com/95518898/205258781-60595e83-b031-4f17-9062-920406bae351.jpg)
 
 
 # Empty Bin - MAGNATHON
@@ -30,7 +30,8 @@ The trained model can later be fine tuned using the data of a specific location 
 that the produce more locally accurate results<br />
 The algorithm used for learning is based on naive bayes and logistic regression
 classifiers
-![image](pipeline.png)
+
+![2](https://user-images.githubusercontent.com/95518898/205258867-79bdaecb-e575-4923-b88d-07de9150aa9a.jpg)
 
 
 ## Technologies used
