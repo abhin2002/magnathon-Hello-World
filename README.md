@@ -30,6 +30,7 @@ The trained model can later be fine tuned using the data of a specific location 
 that the produce more locally accurate results<br />
 The algorithm used for learning is based on naive bayes and logistic regression
 classifiers
+![My Remote Image](https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0)
 
 
 ## Technologies used
@@ -42,9 +43,18 @@ classifiers
 
 ## How to configure
 Instructions for setting up project
+1. clone the repository using :
+''' git clone https://github.com/abhin2002/magnathon-Hello-World'''
+2. install the dependecies:
+'''
+1. pip3 install torch torchvision torchaudio
+2. pip install pytorch_lightning
+3. pip install pandas
+'''
 
 ## How to Run
-Instructions for running
+1. Go the directory where the project has been cloned
+2. 
 
 ## Other Links
 Provide any other links ( for eg. Wireframe , UI )
