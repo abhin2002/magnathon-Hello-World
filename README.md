@@ -1,7 +1,7 @@
 ![image](./assets/banner.png)
 
 
-# {Empty Bin} - MAGNATHON
+# Empty Bin - MAGNATHON
  We aim to predict the amount of food and predict their qualities in domains like 
 community kitchen, restaurant, school/collage mess and all of the food industry by utilizing 
 supervised machine learning.
