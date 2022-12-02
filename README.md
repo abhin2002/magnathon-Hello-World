@@ -44,7 +44,9 @@ classifiers
 
 ## How to configure
 Instructions for setting up project
+
 1. clone the repository using :
+2.  Make sure that python version 3.6 is installed
 ''' git clone https://github.com/abhin2002/magnathon-Hello-World'''
 2. install the dependecies:
 '''
@@ -55,7 +57,7 @@ Instructions for setting up project
 
 ## How to Run
 1. Go the directory where the project has been cloned
-2. 
+2. run on command line : **python .\app.py **
 
 ## Other Links
 Provide any other links ( for eg. Wireframe , UI )
