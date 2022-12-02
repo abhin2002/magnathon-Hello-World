@@ -30,7 +30,7 @@ The trained model can later be fine tuned using the data of a specific location 
 that the produce more locally accurate results<br />
 The algorithm used for learning is based on naive bayes and logistic regression
 classifiers
-Embed video of project demo
+![image](./assets/banner.png)
 
 ## Technologies used
 **Neural network:**<br />
