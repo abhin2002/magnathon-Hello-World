@@ -18,7 +18,7 @@ provide for the needy.
 [4.Abhin P T](https://github.com/abhin2002)   
 
 ## Link to Project
-[Embed the live link of project](live_link)
+[Project]([live_link](https://github.com/abhin2002/Food_Quantity_Prediction))
 
 ## How it Works ?
 Explaining the working of project  
