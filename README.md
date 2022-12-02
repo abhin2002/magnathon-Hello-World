@@ -10,6 +10,10 @@ If we could accurately predict the amount of raw materials and thereby the amoun
 everyday analysis we can minimise the quantity of food waste drastically and thereby 
 provide for the needy.
 
+A solution to eradicate unemployment
+A technology to reduce the scarcity of food
+A system to distrubute nutritional food
+
 
 ## Team Members
 [1.C B Dev Narayan](https://github.com/DeVcB13d)   
