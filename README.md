@@ -30,7 +30,7 @@ The trained model can later be fine tuned using the data of a specific location 
 that the produce more locally accurate results<br />
 The algorithm used for learning is based on naive bayes and logistic regression
 classifiers
-![image](https://github.com/abhin2002/magnathon-Hello-World/blob/main/pipeline.png?raw=true)
+![image][(https://github.com/abhin2002/magnathon-Hello-World/blob/main/pipeline.png?raw=true)](https://github.com/abhin2002/magnathon-Hello-World/blob/main/pipeline.png)
 
 ## Technologies used
 **Neural network:**<br />
