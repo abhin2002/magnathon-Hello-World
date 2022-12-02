@@ -22,7 +22,7 @@ provide for the needy.
 [4.Abhin P T](https://github.com/abhin2002)   
 
 ## Link to Project
-[Project](https://github.com/abhin2002/Food_Quantity_Prediction)
+[Empty Bin-Food Quantity Prediction](https://github.com/abhin2002/Food_Quantity_Prediction)
 
 ## How it Works ?
 Explaining the working of project  
